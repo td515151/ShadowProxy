@@ -1,7 +1,7 @@
 {
-  "name": "Utopia",
-  "version": "1.0.0",
-  "description": "Epic proxy",
+  "name": "Shadow",
+  "version": "beta",
+  "description": "proxy for managing governmental restrictions",
   "main": "index.js",
   "directories": {
     "lib": "lib"
